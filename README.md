@@ -24,4 +24,6 @@ This is a multi-page web application built with Streamlit that serves as a toolk
 
 ## Screenshot
 
-![App Screenshot](image_f0ca87.png)
+![App Fixed Deposit Calculator](images/FD_model.png)
+![App Historical Performance Analyzer](images/Hist_model.png)
+![App Forecast Predictor](images/forecast_model.png)
