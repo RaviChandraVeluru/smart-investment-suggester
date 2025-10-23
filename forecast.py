@@ -1,5 +1,6 @@
 from prophet import Prophet
 import pandas as pd
+import prophet.models
 
 
 def generate_forecast(historical_data):
